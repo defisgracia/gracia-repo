@@ -1,0 +1,4 @@
+GRACIA BELAJAR
+- Bisa menggunakan Bootstrap
+- Bisa JavaScript ditahun 2022 (FE)
+- Bisa JavaScript (BE) ditahun depan
